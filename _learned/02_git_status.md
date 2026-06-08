@@ -1,9 +1,3 @@
-# 🟩 배운 내용 목차  
-- 02_git_status.md (✅)  
-- 04_git_diff.md  
-
-<br><br>
-
 # 🟩 git status 명령어  
 
 ## 🟢 명령어 개요  
